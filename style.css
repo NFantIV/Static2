@@ -1,0 +1,28 @@
+body {
+    background-image: url(./assets/background.png)
+}
+
+.Nav-Bar{ background-color: white;
+    color: red;
+
+}
+
+h3{
+    color: white;
+    font-size: large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p{
+    font-size: large;
+    color: white;
+}
+
+#Copyright {
+    color: white;
+}
+
+#Footer {
+    background-color: black;
+    color: white;
+}
